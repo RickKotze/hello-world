@@ -1,3 +1,2 @@
 # hello-world
-this is my - description
-this is my edited branch
+this is my short description
